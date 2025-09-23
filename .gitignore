@@ -10,6 +10,7 @@
 .venv/
 .vs/
 .vscode/
+.feisuan/
 *.iml
 *.ipr
 *.iws
